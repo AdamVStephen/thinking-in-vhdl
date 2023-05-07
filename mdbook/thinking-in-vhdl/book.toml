@@ -3,4 +3,4 @@ authors = ["Adam V Stephen"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Thinking In MARTe"
+title = "Thinking In VHDL"
