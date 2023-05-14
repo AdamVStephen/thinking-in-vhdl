@@ -29,3 +29,9 @@ of the remount, and how this is being triggered from the init process
 in the uImage.
 
 
+The simplest approach to fixing this seems to be not to overthink it.
+Having looked at the Debian example with two partitions, I jumped to the
+assumption that with Alpine the same would apply.  Rereading Pavel's very
+excellent instructions, this is not the case.
+
+Retrying (following the instructions) we get....

@@ -13,4 +13,7 @@
 - [General Embedded](./embedded/general.md)
    - [U-Boot](./embedded/uboot.md)
    - [U-Boot](./embedded/linux_boot.md)
+   - [Performance](./embedded/performance.md)
+- [Prepackaged Applications](./packaged/packaged_overview.md)
+   - [SDR App](./packaged/packaged_sdr_app.md)
 
