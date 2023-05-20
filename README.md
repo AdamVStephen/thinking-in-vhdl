@@ -2,6 +2,14 @@
 
 Some notes on my journey from CPU programming to VHDL hardware designing.
 
+## Rough Draft
+
+An integration area for feature branches in progress.
+
+## In Work
+
+## To Merge To Main
+
 ## Branches
 
 In this project, branches reflect various stages of maturity in the work.
