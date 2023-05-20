@@ -2,7 +2,6 @@
 
 Some notes on my journey from CPU programming to VHDL hardware designing.
 
-
 ## Branches
 
 In this project, branches reflect various stages of maturity in the work.
