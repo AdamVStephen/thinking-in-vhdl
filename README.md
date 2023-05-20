@@ -2,6 +2,10 @@
 
 Some notes on my journey from CPU programming to VHDL hardware designing.
 
+## Main Release
+
+This version of the book is approximately ready for public consumption.
+
 ## Branches
 
 In this project, branches reflect various stages of maturity in the work.
