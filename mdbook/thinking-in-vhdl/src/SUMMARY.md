@@ -30,4 +30,6 @@
      - [Device Application Software](./inventory/device_application_software.md)
      - [Binary Blobs and SD Cards](./inventory/binary_blobs_sd_cards.md)
 - [Resources](./resources/overview.md)
+- [Worked Examples](./examples/overview.md)
+   - [SDR Example](./examples/sdr_rp_naylor.md)
 - [Behind The Scenes](./behind/mdbook_tips.md)
