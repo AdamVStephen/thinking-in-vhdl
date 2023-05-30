@@ -115,6 +115,7 @@ Experimenting with these options, we observe the following.
 1. `reset_project` cleans out 73 of the 80 files leaving the sources, constraints, project file, one lpr file, the hardware xml
 file, one prm file and one mcs file.  Running the "Generate bitstream" target via the IDE
 
+![Dialogue](../images/VivadoWriteTclFileDialogue.png){width=40%}
 
 ### Project Non Flow Example
 
