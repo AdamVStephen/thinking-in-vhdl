@@ -150,6 +150,7 @@ set listIpFiles [list]
 set listDspFiles [list]
 set listConstrFiles [list]
 set listMiscFiles [list]
+set listSrcFiles [list]
 
 while {[gets $FHIFN cur_line] >= 0} {
     # removing leading and trailing white spaces
@@ -214,7 +215,7 @@ while {[gets $FHIFN cur_line] >= 0} {
     } elseif {$src_type == "dsp"} {
         lappend listDspFiles $src_fn
     } elseif {$src_type == "script"} {
-        lappend listScrFiles $src_fn
+        lappend listSrcFiles $src_fn
     } else {
         PrintMsg "Unsupported source type $src_type. $src_fn will be version controlled." 1
         lappend listMiscFiles $src_fn
@@ -297,7 +298,7 @@ if {$CmdOpt == "vcs"} {
         puts $OUT_FILE "git add $fn"
     }
 
-    foreach fn $listScrFiles {
+    foreach fn $listSrcFiles {
         puts $OUT_FILE "git add $fn"
     }
 
