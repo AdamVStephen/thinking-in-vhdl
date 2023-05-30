@@ -10,6 +10,7 @@
   - [Extended Exploration](./RedPitaya/pavel_exploration.md)
 - [Xilinx Tools](./xilinx/tools.md)
   - [Keeping Up](./xilinx/keeping_up.md)
+  - [Git](./xilinx/vivado_git.md)
 - [General Embedded](./embedded/general.md)
    - [U-Boot](./embedded/uboot.md)
    - [U-Boot](./embedded/linux_boot.md)
